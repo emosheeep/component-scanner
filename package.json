@@ -9,8 +9,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/emosheeep/component-scanner",
-    "directory": "packages/component-scanner"
+    "url": "https://github.com/emosheeep/component-scanner"
   },
   "files": [
     "dist",
